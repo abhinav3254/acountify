@@ -2,10 +2,10 @@
 Basically it is an Android Application for tracking of expenses.
 
 # Technologies
-1. <img src="D:\Application\Acountify\screenshots\love-svgrepo-com.svg" alt="Girl in a jacket" width="500" height="600">
-2. <img src="D:\Application\Acountify\screenshots\android-icon.svg" alt="Love" width="500" height="600">
-3. <img src="D:\Application\Acountify\screenshots\java-icon.svg" alt="Girl in a jacket" width="500" height="600">
-4. <img src="D:\Application\Acountify\screenshots\sqlite-icon.svg" alt="Girl in a jacket" width="500" height="600">
+1. <img src="./screenshots/love-svgrepo-com.svg" alt="Girl in a jacket" width="500" height="600">
+2. <img src="./screenshots/android-icon.svg" alt="Love" width="500" height="600">
+3. <img src="./screenshots/java-icon.svg" alt="Girl in a jacket" width="500" height="600">
+4. <img src="./screenshots/sqlite-icon.svg" alt="Girl in a jacket" width="500" height="600">
 
 # Operations that we can perform
 1. Add expenses.
@@ -15,9 +15,9 @@ Basically it is an Android Application for tracking of expenses.
 
 # Snaps
 
-<img src="D:\Application\Acountify\screenshots\ss_main.png" alt="main" width="500" height="600">
-<img src="D:\Application\Acountify\screenshots\ss01.png" alt="2" width="500" height="600">
-<img src="D:\Application\Acountify\screenshots\ss02.png" alt="Girl in a jacket" width="500" height="600">
+<img src="./screenshots/ss_main.png" alt="main" width="500" height="600">
+<img src="./screenshots/ss01.png" alt="2" width="500" height="600">
+<img src="./screenshots/ss02.png" alt="Girl in a jacket" width="500" height="600">
 
 # Contributing
 
