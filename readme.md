@@ -15,9 +15,18 @@ Basically it is an Android Application for tracking of expenses.
 
 # Snaps
 
+<div>
+<div display="inline-block">
 <img src="./screenshots/ss_main.png" alt="main" width="500" height="1000">
+</div>
+<div display="inline-block">
 <img src="./screenshots/ss01.png" alt="2" width="500" height="1000">
+</div>
+<div display="inline-block">
 <img src="./screenshots/ss02.png" alt="Girl in a jacket" width="500" height="1000">
+</div>
+
+</div>
 
 # Contributing
 
