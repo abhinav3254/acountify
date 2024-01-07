@@ -1,41 +1,40 @@
-# Expense-Tracker-Acountify
-Basically it is an Android Application for tracking of expenses.
+# Expense Tracker - Acountify
 
-# Technologies
-1. <img src="./screenshots/love-svgrepo-com.svg" alt="Girl in a jacket" width="100" height="100">
-2. <img src="./screenshots/android-icon.svg" alt="Love" width="200" height="200">
-3. <img src="./screenshots/java-icon.svg" alt="Girl in a jacket" width="200" height="200">
-4. <img src="./screenshots/sqlite-icon.svg" alt="Girl in a jacket" width="200" height="200">
+This Android application is designed for tracking expenses.
 
-# Operations that we can perform
-1. Add expenses.
-2. Read expenses.
-3. Update expenses.
-4. Delete expenses.
-
-# Snaps
-
+## Technologies
 <div>
-<div display="inline-block">
-<img src="./screenshots/ss_main.png" alt="main" width="500" height="1000">
-</div>
-<div display="inline-block">
-<img src="./screenshots/ss01.png" alt="2" width="500" height="1000">
-</div>
-<div display="inline-block">
-<img src="./screenshots/ss02.png" alt="Girl in a jacket" width="500" height="1000">
+  <img src="./screenshots/love-svgrepo-com.svg" alt="Love" width="50" height="50">
+  <img src="./screenshots/android-icon.svg" alt="Android" width="50" height="50">
+  <img src="./screenshots/java-icon.svg" alt="Java" width="50" height="50">
+  <img src="./screenshots/sqlite-icon.svg" alt="SQLite" width="50" height="50">
 </div>
 
+This app utilizes:
+- **Love** for intuitive user experience
+- **Android** for platform compatibility
+- **Java** for backend logic
+- **SQLite** for local database storage
+
+## Operations
+- Add expenses
+- Read expenses
+- Update expenses
+- Delete expenses
+
+## Screenshots
+<div>
+  <img src="./screenshots/ss_main.png" alt="Main" width="300" height="600">
+  <img src="./screenshots/ss01.png" alt="Screenshot 1" width="300" height="600">
+  <img src="./screenshots/ss02.png" alt="Screenshot 2" width="300" height="600">
 </div>
 
-# Contributing
+## Contributing
+Contributions are welcome! They make the open-source community an amazing place to learn and create. Feel free to:
+- Fork the project
+- Create your feature branch (git checkout -b feature/AmazingFeature)
+- Commit your changes (git commit -m 'Add some AmazingFeature')
+- Push to the branch (git push origin feature/AmazingFeature)
+- Open a pull request
 
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
-
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement". Don't forget to give the project a star! Thanks again!
-
-1. Fork the Project
-2. Create your Feature Branch (git checkout -b feature/2. AmazingFeature)
-3. Commit your Changes (git commit -m 'Add some AmazingFeature')
-4. Push to the Branch (git push origin feature/AmazingFeature)
-5. Open a Pull Request
+If you have suggestions or enhancements, open an issue with the "enhancement" tag. Don't forget to give the project a star! Thank you!
